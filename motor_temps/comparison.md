@@ -40,5 +40,12 @@
 
 ### Target Use Cases
 
-* **Use the TMP36 if:** You are building indoor prototypes, breadboarding hobby projects, or want to write clean code without dealing with logarithmic mathematical conversions.
-* **Use the NTC Thermistor if:** You need a rugged sensor for harsh environments, need to measure temperatures exceeding $125^\circ\text{C}$, or are designing a commercial circuit board where component unit costs must be minimized.
+* **Use the TMP36 if:** We are building indoor prototypes, breadboarding hobby projects, or want to write clean code without dealing with logarithmic mathematical conversions.
+* **Use the NTC Thermistor if:** We need a rugged sensor for harsh environments, need to measure temperatures exceeding $125^\circ\text{C}$, or are designing a commercial circuit board where component unit costs must be minimized.
+
+---
+
+### Conclusion 
+
+As we need to measure motor temperatures, considering factors like response time, ease of mounting, sensitivity and cost we are going to go with the NTC thermistors, particularly the MF52 series.
+
